@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nickmaukan.github.io/dra-carolinaidez/sitemap.xml
