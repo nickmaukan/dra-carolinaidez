@@ -2,9 +2,8 @@ import { defineConfig } from 'astro/config';
 import tailwind from '@astrojs/tailwind';
 
 export default defineConfig({
-  base: '/dra-carolinaidez/',
   integrations: [tailwind()],
-  site: 'https://nickmaukan.github.io/dra-carolinaidez/',
+  site: 'https://nickmaukan.github.io',
   compressHTML: true,
   build: {
     assets: 'assets',
